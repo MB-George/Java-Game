@@ -1,0 +1,5 @@
+package com.george.game.entities;
+
+public class Player extends GameObject{
+
+}

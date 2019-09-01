@@ -1,0 +1,5 @@
+package com.george.game.input;
+
+public class MouseInput {
+
+}
