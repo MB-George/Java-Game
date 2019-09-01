@@ -28,7 +28,7 @@ public class Game extends Canvas implements Runnable{
 	private Camera camera;
 	
 	private BufferedImage level  = null;
-
+	// I was here
 	public int ammo = 0;
 	
 	public Game() {
